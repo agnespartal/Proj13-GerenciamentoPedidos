@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Gerenciamento de Pedidos</string>
+    <string name="title_activity_order_list">OrderListActivity</string>
+    <string name="title_activity_order_detail">OrderDetailActivity</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="excluir">Excluir</string>
+    <string name="editar">Editar</string>
+    <string name="loja">Loja</string>
+    <string name="data">Data</string>
+    <string name="itens">Item</string>
+    <string name="salvar">Salvar</string>
+    <string name="usuario">Usuário</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="voltar">Voltar</string>
+    <string name="itemPedido">Item</string>
+    <string name="alimento">Alimento</string>
+    <string name="itemOuPedido">Itens / Alimentos</string>
+    <string name="listaPedido">Lista de Pedidos</string>
+    <string-array name="arrayStatus">
+        <item>Aguardando Aprovação</item>
+        <item>Em Separação</item>
+        <item>A caminho</item>
+        <item>Entregue</item>
+        <item>Cancelado</item>
+    </string-array>
+</resources>
